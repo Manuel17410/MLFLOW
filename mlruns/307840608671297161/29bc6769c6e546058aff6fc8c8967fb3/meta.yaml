@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/29bc6769c6e546058aff6fc8c8967fb3/artifacts
+end_time: 1742566861289
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: 29bc6769c6e546058aff6fc8c8967fb3
+run_name: carefree-dolphin-331
+run_uuid: 29bc6769c6e546058aff6fc8c8967fb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742566849042
+status: 5
+tags: []
+user_id: manue

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/3e60d7e216fc4ff18c0dbb5e808b456e/artifacts
+end_time: 1742565436113
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: 3e60d7e216fc4ff18c0dbb5e808b456e
+run_name: efficient-fly-302
+run_uuid: 3e60d7e216fc4ff18c0dbb5e808b456e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742565419421
+status: 5
+tags: []
+user_id: manue

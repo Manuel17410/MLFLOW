@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/ef357d71cf914abbac9e74e227d2f697/artifacts
+end_time: 1742563842114
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: ef357d71cf914abbac9e74e227d2f697
+run_name: colorful-turtle-479
+run_uuid: ef357d71cf914abbac9e74e227d2f697
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742563821490
+status: 3
+tags: []
+user_id: manue

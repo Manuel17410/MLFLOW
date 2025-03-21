@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/b1a5900e0f464819b95de911ccc09e9c/artifacts
+end_time: 1742565151897
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: b1a5900e0f464819b95de911ccc09e9c
+run_name: unleashed-lark-939
+run_uuid: b1a5900e0f464819b95de911ccc09e9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742565138863
+status: 5
+tags: []
+user_id: manue

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/54c404b0d99f4898bda992b74ed89b5a/artifacts
+end_time: 1742549572889
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: 54c404b0d99f4898bda992b74ed89b5a
+run_name: amusing-shrew-389
+run_uuid: 54c404b0d99f4898bda992b74ed89b5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742549559194
+status: 5
+tags: []
+user_id: manue

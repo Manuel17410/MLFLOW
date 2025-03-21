@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/96d452727ac34d508170419a1b32b820/artifacts
+end_time: 1742566108510
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: 96d452727ac34d508170419a1b32b820
+run_name: carefree-hawk-300
+run_uuid: 96d452727ac34d508170419a1b32b820
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742566088626
+status: 3
+tags: []
+user_id: manue

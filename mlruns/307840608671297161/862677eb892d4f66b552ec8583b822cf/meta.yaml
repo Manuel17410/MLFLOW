@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/862677eb892d4f66b552ec8583b822cf/artifacts
+end_time: 1742568396319
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: 862677eb892d4f66b552ec8583b822cf
+run_name: thoughtful-gnu-999
+run_uuid: 862677eb892d4f66b552ec8583b822cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742568366315
+status: 3
+tags: []
+user_id: manue

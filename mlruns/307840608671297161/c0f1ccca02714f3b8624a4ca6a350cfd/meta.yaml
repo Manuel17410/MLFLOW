@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/c0f1ccca02714f3b8624a4ca6a350cfd/artifacts
+end_time: 1742565188512
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: c0f1ccca02714f3b8624a4ca6a350cfd
+run_name: delicate-rat-607
+run_uuid: c0f1ccca02714f3b8624a4ca6a350cfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742565168719
+status: 3
+tags: []
+user_id: manue

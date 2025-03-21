@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/dc813416ef504e0892f60cc7162ac4c3/artifacts
+end_time: 1742565549302
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: dc813416ef504e0892f60cc7162ac4c3
+run_name: likeable-finch-644
+run_uuid: dc813416ef504e0892f60cc7162ac4c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742565518252
+status: 3
+tags: []
+user_id: manue

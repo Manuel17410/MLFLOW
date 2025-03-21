@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/25a24cd997354caf87f3f7b108a27596/artifacts
+end_time: 1742549535665
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: 25a24cd997354caf87f3f7b108a27596
+run_name: salty-ram-244
+run_uuid: 25a24cd997354caf87f3f7b108a27596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742549522776
+status: 5
+tags: []
+user_id: manue

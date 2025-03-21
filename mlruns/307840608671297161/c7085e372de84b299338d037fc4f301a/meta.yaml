@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/c7085e372de84b299338d037fc4f301a/artifacts
+end_time: 1742549559172
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: c7085e372de84b299338d037fc4f301a
+run_name: victorious-newt-987
+run_uuid: c7085e372de84b299338d037fc4f301a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742549546822
+status: 5
+tags: []
+user_id: manue

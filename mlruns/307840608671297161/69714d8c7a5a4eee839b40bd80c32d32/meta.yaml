@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/69714d8c7a5a4eee839b40bd80c32d32/artifacts
+end_time: 1742563768730
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: 69714d8c7a5a4eee839b40bd80c32d32
+run_name: intelligent-deer-769
+run_uuid: 69714d8c7a5a4eee839b40bd80c32d32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742563756532
+status: 5
+tags: []
+user_id: manue

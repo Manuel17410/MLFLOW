@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/3b3286dde3ac42848f6a05507ea6e641/artifacts
+end_time: 1742565456158
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: 3b3286dde3ac42848f6a05507ea6e641
+run_name: painted-shoat-313
+run_uuid: 3b3286dde3ac42848f6a05507ea6e641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742565436136
+status: 3
+tags: []
+user_id: manue

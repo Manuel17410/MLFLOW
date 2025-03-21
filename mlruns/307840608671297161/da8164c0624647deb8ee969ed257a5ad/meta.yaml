@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/da8164c0624647deb8ee969ed257a5ad/artifacts
+end_time: 1742569014738
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: da8164c0624647deb8ee969ed257a5ad
+run_name: mercurial-kite-153
+run_uuid: da8164c0624647deb8ee969ed257a5ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742569003221
+status: 5
+tags: []
+user_id: manue

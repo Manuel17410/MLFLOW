@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/138e7b0b9ace4ac89d5aa31e49f73b48/artifacts
+end_time: 1742565084884
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: 138e7b0b9ace4ac89d5aa31e49f73b48
+run_name: rebellious-mole-522
+run_uuid: 138e7b0b9ace4ac89d5aa31e49f73b48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742565067025
+status: 3
+tags: []
+user_id: manue

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/ef2d1e4f5b8e4883be8b8599033f2fd5/artifacts
+end_time: 1742565127544
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: ef2d1e4f5b8e4883be8b8599033f2fd5
+run_name: vaunted-stork-935
+run_uuid: ef2d1e4f5b8e4883be8b8599033f2fd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742565116354
+status: 5
+tags: []
+user_id: manue

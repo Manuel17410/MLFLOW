@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1742562644779
+current_stage: None
+description: ''
+last_updated_timestamp: 1742562644779
+name: FirstModel
+run_id: af8efef78dc84853ba54d9cf6e3243d1
+run_link: ''
+source: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/af8efef78dc84853ba54d9cf6e3243d1/artifacts/RandomForestRegressor
+status: READY
+status_message: null
+storage_location: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/af8efef78dc84853ba54d9cf6e3243d1/artifacts/RandomForestRegressor
+user_id: null
+version: 1

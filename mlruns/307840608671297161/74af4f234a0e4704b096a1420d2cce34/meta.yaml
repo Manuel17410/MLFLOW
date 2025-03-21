@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/74af4f234a0e4704b096a1420d2cce34/artifacts
+end_time: 1742569489861
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: 74af4f234a0e4704b096a1420d2cce34
+run_name: lyrical-boar-62
+run_uuid: 74af4f234a0e4704b096a1420d2cce34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742569477711
+status: 5
+tags: []
+user_id: manue

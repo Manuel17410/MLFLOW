@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/de85a3e00fd542aeba250f3aa26d99b8/artifacts
+end_time: 1742568958509
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: de85a3e00fd542aeba250f3aa26d99b8
+run_name: casual-foal-709
+run_uuid: de85a3e00fd542aeba250f3aa26d99b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742568939190
+status: 3
+tags: []
+user_id: manue

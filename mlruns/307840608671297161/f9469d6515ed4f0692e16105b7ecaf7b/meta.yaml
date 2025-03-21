@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/f9469d6515ed4f0692e16105b7ecaf7b/artifacts
+end_time: 1742565066993
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: f9469d6515ed4f0692e16105b7ecaf7b
+run_name: wistful-snake-255
+run_uuid: f9469d6515ed4f0692e16105b7ecaf7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742565040079
+status: 3
+tags: []
+user_id: manue

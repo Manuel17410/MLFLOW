@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/896d37cc24c14d18aebe0229fb519096/artifacts
+end_time: 1742564274526
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: 896d37cc24c14d18aebe0229fb519096
+run_name: indecisive-shoat-342
+run_uuid: 896d37cc24c14d18aebe0229fb519096
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742564261670
+status: 5
+tags: []
+user_id: manue

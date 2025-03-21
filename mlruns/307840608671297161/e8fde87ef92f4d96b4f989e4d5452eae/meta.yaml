@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/e8fde87ef92f4d96b4f989e4d5452eae/artifacts
+end_time: 1742565395088
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: e8fde87ef92f4d96b4f989e4d5452eae
+run_name: unleashed-calf-934
+run_uuid: e8fde87ef92f4d96b4f989e4d5452eae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742565383934
+status: 5
+tags: []
+user_id: manue

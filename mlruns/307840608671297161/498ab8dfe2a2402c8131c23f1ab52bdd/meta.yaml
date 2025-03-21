@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/498ab8dfe2a2402c8131c23f1ab52bdd/artifacts
+end_time: 1742549522745
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: 498ab8dfe2a2402c8131c23f1ab52bdd
+run_name: sneaky-deer-629
+run_uuid: 498ab8dfe2a2402c8131c23f1ab52bdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742549503708
+status: 3
+tags: []
+user_id: manue

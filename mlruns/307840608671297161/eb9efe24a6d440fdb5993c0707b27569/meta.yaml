@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/eb9efe24a6d440fdb5993c0707b27569/artifacts
+end_time: 1742564350139
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: eb9efe24a6d440fdb5993c0707b27569
+run_name: colorful-koi-361
+run_uuid: eb9efe24a6d440fdb5993c0707b27569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742564327452
+status: 3
+tags: []
+user_id: manue

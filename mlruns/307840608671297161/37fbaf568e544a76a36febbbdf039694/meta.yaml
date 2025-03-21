@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/37fbaf568e544a76a36febbbdf039694/artifacts
+end_time: 1742569046021
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: 37fbaf568e544a76a36febbbdf039694
+run_name: handsome-gull-767
+run_uuid: 37fbaf568e544a76a36febbbdf039694
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742569028253
+status: 5
+tags: []
+user_id: manue

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/fb95c0736f674a9b94c98974aeb10c32/artifacts
+end_time: 1742569066463
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: fb95c0736f674a9b94c98974aeb10c32
+run_name: secretive-chimp-84
+run_uuid: fb95c0736f674a9b94c98974aeb10c32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742569046051
+status: 3
+tags: []
+user_id: manue

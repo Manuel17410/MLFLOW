@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/fed8a7b5810047cc89eee807a529f62b/artifacts
+end_time: 1742565696108
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: fed8a7b5810047cc89eee807a529f62b
+run_name: defiant-pig-412
+run_uuid: fed8a7b5810047cc89eee807a529f62b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742565675890
+status: 3
+tags: []
+user_id: manue

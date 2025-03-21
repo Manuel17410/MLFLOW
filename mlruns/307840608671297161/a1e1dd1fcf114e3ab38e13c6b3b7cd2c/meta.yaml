@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/a1e1dd1fcf114e3ab38e13c6b3b7cd2c/artifacts
+end_time: 1742566023191
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: a1e1dd1fcf114e3ab38e13c6b3b7cd2c
+run_name: dapper-doe-38
+run_uuid: a1e1dd1fcf114e3ab38e13c6b3b7cd2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742566003409
+status: 3
+tags: []
+user_id: manue

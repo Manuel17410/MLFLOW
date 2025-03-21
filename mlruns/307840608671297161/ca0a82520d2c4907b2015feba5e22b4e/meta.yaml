@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/ca0a82520d2c4907b2015feba5e22b4e/artifacts
+end_time: 1742564310393
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: ca0a82520d2c4907b2015feba5e22b4e
+run_name: whimsical-loon-652
+run_uuid: ca0a82520d2c4907b2015feba5e22b4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742564297342
+status: 5
+tags: []
+user_id: manue

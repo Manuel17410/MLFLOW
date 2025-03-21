@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/97a3969efd6f48a099566634bf752e2d/artifacts
+end_time: 1742565352460
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: 97a3969efd6f48a099566634bf752e2d
+run_name: zealous-mouse-196
+run_uuid: 97a3969efd6f48a099566634bf752e2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742565334553
+status: 3
+tags: []
+user_id: manue

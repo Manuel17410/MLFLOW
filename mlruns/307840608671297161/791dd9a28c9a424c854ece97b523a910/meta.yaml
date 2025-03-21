@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/791dd9a28c9a424c854ece97b523a910/artifacts
+end_time: 1742566790586
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: 791dd9a28c9a424c854ece97b523a910
+run_name: thundering-bass-373
+run_uuid: 791dd9a28c9a424c854ece97b523a910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742566762492
+status: 3
+tags: []
+user_id: manue

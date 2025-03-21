@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/fdc25a6bcd2e4ad7bd5848e8d96da80d/artifacts
+end_time: 1742566873087
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: fdc25a6bcd2e4ad7bd5848e8d96da80d
+run_name: nebulous-turtle-657
+run_uuid: fdc25a6bcd2e4ad7bd5848e8d96da80d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742566861318
+status: 5
+tags: []
+user_id: manue

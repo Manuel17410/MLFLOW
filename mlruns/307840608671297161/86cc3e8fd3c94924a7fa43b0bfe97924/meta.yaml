@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/86cc3e8fd3c94924a7fa43b0bfe97924/artifacts
+end_time: 1742568991731
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: 86cc3e8fd3c94924a7fa43b0bfe97924
+run_name: shivering-fawn-72
+run_uuid: 86cc3e8fd3c94924a7fa43b0bfe97924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742568978627
+status: 5
+tags: []
+user_id: manue

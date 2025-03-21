@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/9db0559b24104ae5a859e9bbe555d39f/artifacts
+end_time: 1742566003378
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: 9db0559b24104ae5a859e9bbe555d39f
+run_name: fearless-stag-575
+run_uuid: 9db0559b24104ae5a859e9bbe555d39f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742565985432
+status: 3
+tags: []
+user_id: manue

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/2e14d89a15244acfb235404f8c5b0e1d/artifacts
+end_time: 1742566058496
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: 2e14d89a15244acfb235404f8c5b0e1d
+run_name: sincere-robin-382
+run_uuid: 2e14d89a15244acfb235404f8c5b0e1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742566046933
+status: 5
+tags: []
+user_id: manue

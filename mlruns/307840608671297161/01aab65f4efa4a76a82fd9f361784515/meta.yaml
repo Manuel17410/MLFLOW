@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/01aab65f4efa4a76a82fd9f361784515/artifacts
+end_time: 1742564261638
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: 01aab65f4efa4a76a82fd9f361784515
+run_name: caring-wolf-596
+run_uuid: 01aab65f4efa4a76a82fd9f361784515
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742564241881
+status: 3
+tags: []
+user_id: manue

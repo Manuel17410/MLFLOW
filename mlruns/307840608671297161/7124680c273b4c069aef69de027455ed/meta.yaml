@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/7124680c273b4c069aef69de027455ed/artifacts
+end_time: 1742565168684
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: 7124680c273b4c069aef69de027455ed
+run_name: respected-crow-893
+run_uuid: 7124680c273b4c069aef69de027455ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742565151928
+status: 5
+tags: []
+user_id: manue

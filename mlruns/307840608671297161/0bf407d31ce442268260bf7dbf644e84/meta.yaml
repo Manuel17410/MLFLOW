@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/0bf407d31ce442268260bf7dbf644e84/artifacts
+end_time: 1742566833378
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: 0bf407d31ce442268260bf7dbf644e84
+run_name: bold-shrike-390
+run_uuid: 0bf407d31ce442268260bf7dbf644e84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742566811942
+status: 3
+tags: []
+user_id: manue

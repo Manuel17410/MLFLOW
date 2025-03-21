@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/c4b143d3bfe94e9aa67f7b9549d59c33/artifacts
+end_time: 1742566811910
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: c4b143d3bfe94e9aa67f7b9549d59c33
+run_name: adventurous-swan-55
+run_uuid: c4b143d3bfe94e9aa67f7b9549d59c33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742566790602
+status: 3
+tags: []
+user_id: manue

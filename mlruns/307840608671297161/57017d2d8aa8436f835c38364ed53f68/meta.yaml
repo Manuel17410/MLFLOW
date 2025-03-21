@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/57017d2d8aa8436f835c38364ed53f68/artifacts
+end_time: 1742549611276
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: 57017d2d8aa8436f835c38364ed53f68
+run_name: traveling-bird-872
+run_uuid: 57017d2d8aa8436f835c38364ed53f68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742549590698
+status: 3
+tags: []
+user_id: manue

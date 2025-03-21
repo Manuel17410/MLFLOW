@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/8373223475c24f4fa6159377b45bcc1b/artifacts
+end_time: 1742565383899
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: 8373223475c24f4fa6159377b45bcc1b
+run_name: illustrious-cub-789
+run_uuid: 8373223475c24f4fa6159377b45bcc1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742565371747
+status: 5
+tags: []
+user_id: manue

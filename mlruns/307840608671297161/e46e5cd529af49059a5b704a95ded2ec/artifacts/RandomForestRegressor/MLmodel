@@ -1,0 +1,41 @@
+artifact_path: RandomForestRegressor
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+is_signature_from_type_hint: false
+mlflow_version: 2.21.0
+model_size_bytes: 4010281
+model_uuid: fe34649fb7144da488969d81deef2783
+prompts: null
+run_id: e46e5cd529af49059a5b704a95ded2ec
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "string", "name": "Company", "required": true}, {"type": "string",
+    "name": "TypeName", "required": true}, {"type": "double", "name": "Inches", "required":
+    true}, {"type": "double", "name": "Ram", "required": true}, {"type": "string",
+    "name": "OpSys", "required": true}, {"type": "double", "name": "Weight", "required":
+    true}, {"type": "double", "name": "ScreenWidth", "required": true}, {"type": "double",
+    "name": "ScreenHeight", "required": true}, {"type": "string", "name": "ScreenType",
+    "required": false}, {"type": "string", "name": "Cpu_Brand", "required": true},
+    {"type": "string", "name": "Cpu_Model", "required": false}, {"type": "double",
+    "name": "Cpu_ClockSpeed", "required": true}, {"type": "double", "name": "Memory_Size",
+    "required": true}, {"type": "string", "name": "Storage_Type", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-03-21 15:03:34.861830'

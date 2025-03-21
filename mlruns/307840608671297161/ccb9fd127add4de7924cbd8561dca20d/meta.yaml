@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/ccb9fd127add4de7924cbd8561dca20d/artifacts
+end_time: 1742568501364
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: ccb9fd127add4de7924cbd8561dca20d
+run_name: gifted-bird-494
+run_uuid: ccb9fd127add4de7924cbd8561dca20d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742568483328
+status: 5
+tags: []
+user_id: manue

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/8e964ed8cf694c868479a22be30dd471/artifacts
+end_time: 1742569259532
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: 8e964ed8cf694c868479a22be30dd471
+run_name: bouncy-sloth-561
+run_uuid: 8e964ed8cf694c868479a22be30dd471
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742569246066
+status: 5
+tags: []
+user_id: manue

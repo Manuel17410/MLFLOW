@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/6b8aa1d7e60c45d1985caefe25953de8/artifacts
+end_time: 1742566035550
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: 6b8aa1d7e60c45d1985caefe25953de8
+run_name: treasured-dove-576
+run_uuid: 6b8aa1d7e60c45d1985caefe25953de8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742566023218
+status: 5
+tags: []
+user_id: manue

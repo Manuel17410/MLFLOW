@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/594fa67493fb4bd4801c4c2ef22e2e73/artifacts
+end_time: 1742565657633
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: 594fa67493fb4bd4801c4c2ef22e2e73
+run_name: entertaining-wren-51
+run_uuid: 594fa67493fb4bd4801c4c2ef22e2e73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742565643280
+status: 5
+tags: []
+user_id: manue

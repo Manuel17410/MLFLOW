@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/bb52da9d9b7049bfac792eee00d5433f/artifacts
+end_time: 1742566849009
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: bb52da9d9b7049bfac792eee00d5433f
+run_name: victorious-hare-655
+run_uuid: bb52da9d9b7049bfac792eee00d5433f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742566833393
+status: 5
+tags: []
+user_id: manue

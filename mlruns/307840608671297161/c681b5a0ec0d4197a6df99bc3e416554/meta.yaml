@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/c681b5a0ec0d4197a6df99bc3e416554/artifacts
+end_time: 1742565985395
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: c681b5a0ec0d4197a6df99bc3e416554
+run_name: ambitious-skunk-433
+run_uuid: c681b5a0ec0d4197a6df99bc3e416554
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742565956920
+status: 3
+tags: []
+user_id: manue

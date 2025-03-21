@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/ad86e9fda11845c09ead20b1c549d90d/artifacts
+end_time: 1742566513003
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: ad86e9fda11845c09ead20b1c549d90d
+run_name: shivering-lark-471
+run_uuid: ad86e9fda11845c09ead20b1c549d90d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742566499580
+status: 5
+tags: []
+user_id: manue

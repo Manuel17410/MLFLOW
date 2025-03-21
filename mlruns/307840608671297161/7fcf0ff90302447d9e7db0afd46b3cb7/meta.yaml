@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/7fcf0ff90302447d9e7db0afd46b3cb7/artifacts
+end_time: 1742564241865
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: 7fcf0ff90302447d9e7db0afd46b3cb7
+run_name: clumsy-boar-775
+run_uuid: 7fcf0ff90302447d9e7db0afd46b3cb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742564223648
+status: 3
+tags: []
+user_id: manue

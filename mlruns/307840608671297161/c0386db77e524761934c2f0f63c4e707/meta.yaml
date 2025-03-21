@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/c0386db77e524761934c2f0f63c4e707/artifacts
+end_time: 1742566046909
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: c0386db77e524761934c2f0f63c4e707
+run_name: awesome-frog-442
+run_uuid: c0386db77e524761934c2f0f63c4e707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742566035574
+status: 5
+tags: []
+user_id: manue

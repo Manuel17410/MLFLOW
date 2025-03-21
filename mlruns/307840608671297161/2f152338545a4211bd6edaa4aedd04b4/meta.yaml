@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/2f152338545a4211bd6edaa4aedd04b4/artifacts
+end_time: 1742565371716
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: 2f152338545a4211bd6edaa4aedd04b4
+run_name: caring-robin-37
+run_uuid: 2f152338545a4211bd6edaa4aedd04b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742565352491
+status: 3
+tags: []
+user_id: manue

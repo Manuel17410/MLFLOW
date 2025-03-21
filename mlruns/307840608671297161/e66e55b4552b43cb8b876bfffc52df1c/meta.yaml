@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/e66e55b4552b43cb8b876bfffc52df1c/artifacts
+end_time: 1742566476098
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: e66e55b4552b43cb8b876bfffc52df1c
+run_name: adventurous-hound-65
+run_uuid: e66e55b4552b43cb8b876bfffc52df1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742566463610
+status: 5
+tags: []
+user_id: manue

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/d2b791767b1d467ab10278962b66131a/artifacts
+end_time: 1742569526266
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: d2b791767b1d467ab10278962b66131a
+run_name: hilarious-colt-300
+run_uuid: d2b791767b1d467ab10278962b66131a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742569512839
+status: 5
+tags: []
+user_id: manue

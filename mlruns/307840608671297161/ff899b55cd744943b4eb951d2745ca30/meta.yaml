@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/ff899b55cd744943b4eb951d2745ca30/artifacts
+end_time: 1742569563549
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: ff899b55cd744943b4eb951d2745ca30
+run_name: receptive-frog-102
+run_uuid: ff899b55cd744943b4eb951d2745ca30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742569543186
+status: 3
+tags: []
+user_id: manue

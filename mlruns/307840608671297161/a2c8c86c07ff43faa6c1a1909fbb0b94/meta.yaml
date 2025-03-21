@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/a2c8c86c07ff43faa6c1a1909fbb0b94/artifacts
+end_time: 1742563821456
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: a2c8c86c07ff43faa6c1a1909fbb0b94
+run_name: placid-quail-13
+run_uuid: a2c8c86c07ff43faa6c1a1909fbb0b94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742563804605
+status: 5
+tags: []
+user_id: manue

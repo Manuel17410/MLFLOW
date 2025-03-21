@@ -1,0 +1,19 @@
+name: Laptop_Price_Prediction
+
+conda_env: 
+  name: laptop
+  dependencies:
+    - python=3.8
+    - numpy
+    - pandas
+    - scikit-learn
+    - xgboost
+    - mlflow
+    - matplotlib
+    - seaborn
+    - pip:
+        - mlflow
+
+entry_points:
+  main:
+    command: "python main2.py"

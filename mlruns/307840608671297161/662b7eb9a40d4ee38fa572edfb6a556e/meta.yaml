@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/662b7eb9a40d4ee38fa572edfb6a556e/artifacts
+end_time: 1742563804572
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: 662b7eb9a40d4ee38fa572edfb6a556e
+run_name: resilient-rat-849
+run_uuid: 662b7eb9a40d4ee38fa572edfb6a556e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742563791407
+status: 5
+tags: []
+user_id: manue

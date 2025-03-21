@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/5b42fbd064c44d979f212098d965f2af/artifacts
+end_time: 1742549485817
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: 5b42fbd064c44d979f212098d965f2af
+run_name: gregarious-cow-156
+run_uuid: 5b42fbd064c44d979f212098d965f2af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742549458845
+status: 3
+tags: []
+user_id: manue

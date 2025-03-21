@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/071f5a7f0043469fbb63b535e43155ac/artifacts
+end_time: 1742569246036
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: 071f5a7f0043469fbb63b535e43155ac
+run_name: defiant-loon-237
+run_uuid: 071f5a7f0043469fbb63b535e43155ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742569234488
+status: 5
+tags: []
+user_id: manue

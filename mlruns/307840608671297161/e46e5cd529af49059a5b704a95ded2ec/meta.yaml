@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/e46e5cd529af49059a5b704a95ded2ec/artifacts
+end_time: 1742569439466
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: e46e5cd529af49059a5b704a95ded2ec
+run_name: zealous-stoat-836
+run_uuid: e46e5cd529af49059a5b704a95ded2ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742569412366
+status: 3
+tags: []
+user_id: manue

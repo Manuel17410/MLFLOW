@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manue/Desktop/DataScience/MLFLOW-main/mlruns/307840608671297161/ad4c05f7396a414f9189c72971de3a6b/artifacts
+end_time: 1742566071784
+entry_point_name: ''
+experiment_id: '307840608671297161'
+lifecycle_stage: active
+run_id: ad4c05f7396a414f9189c72971de3a6b
+run_name: gregarious-robin-744
+run_uuid: ad4c05f7396a414f9189c72971de3a6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742566058520
+status: 5
+tags: []
+user_id: manue
