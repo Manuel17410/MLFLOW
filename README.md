@@ -1,4 +1,4 @@
-# MLflow-Powered-Laptop-Price-Prediction-Regression-Pipeline
+# MLflow Powered Laptop Price Prediction Regression Pipeline
 
 ### Project Overview:
 
